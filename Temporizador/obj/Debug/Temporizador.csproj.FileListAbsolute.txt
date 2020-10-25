@@ -1,0 +1,14 @@
+D:\Alejandro\Source\C#\Temporizador\Temporizador\bin\Debug\Temporizador.exe.config
+D:\Alejandro\Source\C#\Temporizador\Temporizador\bin\Debug\Temporizador.exe
+D:\Alejandro\Source\C#\Temporizador\Temporizador\bin\Debug\Temporizador.pdb
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.csprojAssemblyReference.cache
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.mainForm.resources
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.Properties.Resources.resources
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.GenerateResource.cache
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.csproj.CoreCompileInputs.cache
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.exe
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.pdb
+D:\Alejandro\Source\C#\Temporizador\Temporizador\bin\Debug\Temporizador.exe.manifest
+D:\Alejandro\Source\C#\Temporizador\Temporizador\bin\Debug\Temporizador.application
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.exe.manifest
+D:\Alejandro\Source\C#\Temporizador\Temporizador\obj\Debug\Temporizador.application
